@@ -1,0 +1,28 @@
+#div1{
+    position: relative;
+    margin-top: 15em;
+    font-size: 2em;
+    text-align: center;
+}
+
+#div2{
+    position: relative;
+    top: 30em;
+}
+
+#slaAPP{
+    position: relative;
+    border: 3px solid green;
+    /* background-color: transparent; */
+    border-radius: 0;
+    left: 10em;
+    
+}
+
+.SLA{
+    height: 15em;
+    width: 21em;
+}
+.center-text{
+    text-align: center;
+}
