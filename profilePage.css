@@ -10,37 +10,54 @@
     background-repeat: no-repeat;
 }
 
-#div1{
+#about{
     background-color: rgb(164, 207, 233);
     position: relative;
     margin-top: -2em;
     font-size: 2em;
     text-align: center;
-    padding: 50px 0;
+    padding: 50px ;
     padding-top: 140px;
     padding-right: 0px;
-    padding-bottom: 50px;
+    padding-bottom: 140px;
     padding-left: 0px;
 }
 
-#div2{
+#projects{
     position: relative;
-    top: 9em;
+    top: 1em;
+    padding: 50px 0;
+    padding-top: 90px;
+    padding-right: 5px;
+    padding-bottom: 0px;
+    padding-left: 9px;
 }
 
-#slaAPP{
-    position: relative;
-    border: 3px solid green;
-    /* background-color: transparent; */
-    border-radius: 0;
-    left: 10em;
-    
-}
-
-.SLA{
-    height: 15em;
-    width: 21em;
-}
-.center-text{
+#contact{
+    background-image: url(./assetsSLA/BqtRc9.jpg);
+    background-attachment: fixed;
+    margin-bottom: 10em;
+    top: 20em;
     text-align: center;
+    position: relative;
+    color: black;
+}
+form{
+    position: relative;
+    text-align: center;
+    width: 30%;
+    left: 35em;
+}
+
+.social-media{
+    position: relative;
+    color: black;
+    display: inline-block;
+}
+
+#footer{
+    top: 20em;
+    text-align: center;
+    position: relative;
+    height: 1.5em;
 }
