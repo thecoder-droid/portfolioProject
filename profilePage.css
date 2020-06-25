@@ -83,14 +83,14 @@ form{
 }
 
 #span{
-    top: 3em;
+    top: 4em;
 }
 
 #footer{
     top: 10em;
     text-align: center;
     position: relative;
-    height: 8.7em;
+    height: 10em;
     border: solid 3px lightblue;
     background-color: lightblue;
 }
