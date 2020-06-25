@@ -61,18 +61,18 @@ form{
     padding-bottom: 3em;
 }
 
-
+.footerRow{
+    justify-content: center;
+}
 
 #linkedin{
     position: relative;
     top: 1.2em;
-    left: 31em;
 }
 
 #github{
     position: relative;
     top: 1.2em;
-    left: 30em;
 }
 
 #span{
