@@ -61,20 +61,29 @@ form{
     padding-bottom: 3em;
 }
 
-.social-media{
-    position: relative;
-    color: black;
-    display: inline-block;
-}
+
 
 #linkedin{
     position: relative;
-    top: 14em;
+    top: 1.2em;
+    left: 31em;
+}
+
+#github{
+    position: relative;
+    top: 1.2em;
+    left: 30em;
+}
+
+#span{
+    top: 3em;
 }
 
 #footer{
-    top: 20em;
+    top: 10em;
     text-align: center;
     position: relative;
-    height: 1.5em;
+    height: 8.7em;
+    border: solid 3px lightblue;
+    background-color: lightblue;
 }
