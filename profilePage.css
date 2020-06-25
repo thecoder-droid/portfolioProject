@@ -10,8 +10,13 @@
     background-repeat: no-repeat;
 }
 
+#about-header{
+    position: absolute; 
+    left: 2.8em; 
+    top: 2em;
+}
+
 #about{
-    background-color: rgb(164, 207, 233);
     position: relative;
     margin-top: -2em;
     font-size: 2em;
@@ -21,6 +26,7 @@
     padding-right: 0px;
     padding-bottom: 140px;
     padding-left: 0px;
+    background-color: rgb(164, 207, 233);
 }
 
 #projects{
@@ -33,6 +39,10 @@
     padding-left: 9px;
 }
 
+.projectsRow{
+    justify-content: center;
+}
+
 #contact{
     background-image: url(./assetsSLA/BqtRc9.jpg);
     background-attachment: fixed;
@@ -41,18 +51,26 @@
     text-align: center;
     position: relative;
     color: black;
+    padding-top: 3em;
 }
 form{
     position: relative;
     text-align: center;
     width: 30%;
-    left: 35em;
+    margin: auto;
+    padding-bottom: 3em;
 }
 
 .social-media{
     position: relative;
     color: black;
     display: inline-block;
+}
+
+#linkedin{
+    position: relative;
+    top: 14em;
+    left: ;
 }
 
 #footer{
