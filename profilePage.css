@@ -1,96 +1,96 @@
-body{
-    padding: 0;
-    margin: 0;
-    overflow-x: hidden;
+body {
+  padding: 0;
+  margin: 0;
+  overflow-x: hidden;
 }
 
-#img1{
-    background-image: url(./assetsSLA/121412.jpg);
-    background-size: cover;
-    height: 100vh;
-    width: 100vw;
-    padding: none;
-    text-align: center;
-    background-attachment: fixed;
-    background-position: center;
-    background-position-x: center;
-    background-position-y: center;
-    background-repeat: no-repeat;
+#img1 {
+  background-image: url(./assetsSLA/121412.jpg);
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
+  padding: none;
+  text-align: center;
+  background-attachment: fixed;
+  background-position: center;
+  background-position-x: center;
+  background-position-y: center;
+  background-repeat: no-repeat;
 }
 
-#about-header{
-    position: absolute; 
-    left: 2.8em; 
-    top: 2em;
+#about-header {
+  position: absolute;
+  left: 2.8em;
+  top: 2em;
 }
 
-#about{
-    position: relative;
-    margin-top: -2em;
-    font-size: 2em;
-    text-align: center;
-    padding: 50px ;
-    padding-top: 140px;
-    padding-right: 0px;
-    padding-bottom: 140px;
-    padding-left: 0px;
-    background-color: rgb(164, 207, 233);
+#about {
+  position: relative;
+  margin-top: -2em;
+  font-size: 2em;
+  text-align: center;
+  padding: 50px;
+  padding-top: 140px;
+  padding-right: 0px;
+  padding-bottom: 140px;
+  padding-left: 0px;
+  background-color: rgb(164, 207, 233);
 }
 
-#projects{
-    position: relative;
-    padding: 50px 0;
-    padding-top: 90px;
-    padding-right: 5px;
-    padding-bottom: 0px;
-    padding-left: 9px;
+#projects {
+  position: relative;
+  padding: 50px 0;
+  padding-top: 90px;
+  padding-right: 5px;
+  padding-bottom: 0px;
+  padding-left: 9px;
 }
 
-.projectsRow{
-    justify-content: center;
+.projectsRow {
+  justify-content: center;
 }
 
-#contact{
-    background-image: url(./assetsSLA/BqtRc9.jpg);
-    background-attachment: fixed;
-    margin-bottom: 10em;
-    top: 20em;
-    text-align: center;
-    position: relative;
-    color: black;
-    padding-top: 3em;
+#contact {
+  background-image: url(./assetsSLA/BqtRc9.jpg);
+  background-attachment: fixed;
+  margin-bottom: 10em;
+  top: 20em;
+  text-align: center;
+  position: relative;
+  color: black;
+  padding-top: 3em;
 }
-form{
-    position: relative;
-    text-align: center;
-    width: 30%;
-    margin: auto;
-    padding-bottom: 3em;
-}
-
-.footerRow{
-    justify-content: center;
+form {
+  position: relative;
+  text-align: center;
+  width: 30%;
+  margin: auto;
+  padding-bottom: 3em;
 }
 
-#linkedin{
-    position: relative;
-    top: 1.2em;
+.footerRow {
+  justify-content: center;
 }
 
-#github{
-    position: relative;
-    top: 1.2em;
+#linkedin {
+  position: relative;
+  top: 1.2em;
 }
 
-#span{
-    top: 4em;
+#github {
+  position: relative;
+  top: 1.2em;
 }
 
-#footer{
-    top: 10em;
-    text-align: center;
-    position: relative;
-    height: 10em;
-    border: solid 3px lightblue;
-    background-color: lightblue;
+#span {
+  top: 4em;
+}
+
+#footer {
+  top: 10em;
+  text-align: center;
+  position: relative;
+  height: 10em;
+  border: solid 3px lightblue;
+  background-color: lightblue;
 }
